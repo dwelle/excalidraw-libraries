@@ -1,0 +1,39 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:5000",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 18,
+          "versionNonce": 760756152,
+          "isDeleted": false,
+          "id": "AJwoyhfo3oktiUjhR9uJ5",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "angle": 0,
+          "x": 9.5,
+          "y": 10.5,
+          "strokeColor": "#000000",
+          "backgroundColor": "#4c6ef5",
+          "width": 87,
+          "height": 63,
+          "seed": 119053496,
+          "groupIds": [],
+          "strokeSharpness": "round",
+          "boundElementIds": [],
+          "updated": 1637876349723
+        }
+      ],
+      "id": "28sGCAVOoqBw5N3LO7-UC",
+      "created": 1637876603899,
+      "name": "gaga"
+    }
+  ]
+}
