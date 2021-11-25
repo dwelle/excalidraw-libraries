@@ -1,0 +1,63 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:5000",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "8ZHr5uFE4Fg-k22zXVucP",
+          "type": "rectangle",
+          "x": -4528.163473783056,
+          "y": -39471.710765601834,
+          "width": 59,
+          "height": 54,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#4c6ef5",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "round",
+          "seed": 640316433,
+          "version": 18,
+          "versionNonce": 1887085183,
+          "isDeleted": false,
+          "boundElementIds": null,
+          "updated": 1637866911087
+        },
+        {
+          "id": "A4Ajsa1Lc95s685E53tb_",
+          "type": "rectangle",
+          "x": -4495.163473783056,
+          "y": -39485.710765601834,
+          "width": 51,
+          "height": 49,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#4c6ef5",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "round",
+          "seed": 61165247,
+          "version": 28,
+          "versionNonce": 1153945873,
+          "isDeleted": false,
+          "boundElementIds": null,
+          "updated": 1637868072079
+        }
+      ],
+      "id": "3x5GNS7Rc5YMeGO6gjki3",
+      "created": 1637868743073,
+      "name": "asd"
+    }
+  ]
+}
