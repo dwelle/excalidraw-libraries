@@ -1134,5 +1134,22 @@
     "created": "2021-11-21",
     "updated": "2021-11-21",
     "version": 2
+  },
+  {
+    "name": "Squares",
+    "description": "Some squares",
+    "authors": [
+      {
+        "name": "dwelle",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "dwelle/squares.excalidrawlib",
+    "preview": "dwelle/squares.png",
+    "created": "2021-11-25",
+    "updated": "2021-11-25",
+    "version": 2
   }
 ]
