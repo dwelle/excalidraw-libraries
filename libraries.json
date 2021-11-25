@@ -1134,5 +1134,22 @@
     "created": "2021-11-21",
     "updated": "2021-11-21",
     "version": 2
+  },
+  {
+    "name": "tess",
+    "description": "tes",
+    "authors": [
+      {
+        "name": "tes",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "tes/tess.excalidrawlib",
+    "preview": "tes/tess.png",
+    "created": "2021-11-25",
+    "updated": "2021-11-25",
+    "version": 2
   }
 ]
