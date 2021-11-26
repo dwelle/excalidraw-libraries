@@ -1134,5 +1134,22 @@
     "created": "2021-11-21",
     "updated": "2021-11-21",
     "version": 2
+  },
+  {
+    "name": "test squares",
+    "description": "squares",
+    "authors": [
+      {
+        "name": "dwelle",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "dwelle/test-squares.excalidrawlib",
+    "preview": "dwelle/test-squares.jpg",
+    "created": "2021-11-26",
+    "updated": "2021-11-26",
+    "version": 2
   }
 ]
