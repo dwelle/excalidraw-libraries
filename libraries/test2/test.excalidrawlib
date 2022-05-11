@@ -1,0 +1,173 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "http://localhost:5000",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "type": "rectangle",
+          "version": 1038,
+          "versionNonce": 1227078126,
+          "isDeleted": false,
+          "id": "4fs1CTFrFoi89WBaHNeZj",
+          "fillStyle": "cross-hatch",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1020.7912744034584,
+          "y": 316.91195145122924,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fd7e1488",
+          "width": 64.46115236495699,
+          "height": 64.39942473426015,
+          "seed": 78929262,
+          "groupIds": [
+            "I5q-oweq75r6_gyMAqlB9",
+            "Eza_QI0h3CT9Z221AyRX1"
+          ],
+          "strokeSharpness": "sharp",
+          "boundElements": [
+            {
+              "type": "arrow",
+              "id": "EUHZ_sUolb_30DI6OzWP4"
+            }
+          ],
+          "updated": 1652276589839,
+          "link": null,
+          "locked": false
+        },
+        {
+          "type": "line",
+          "version": 206,
+          "versionNonce": 394241010,
+          "isDeleted": false,
+          "id": "Gpw1cCdsTAhL_sWGXspks",
+          "fillStyle": "cross-hatch",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1045.7824819539055,
+          "y": 343.6494172363282,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 19.307143399999998,
+          "height": 26.897,
+          "seed": 669742254,
+          "groupIds": [
+            "j4OThH82PO3sPMDOA1iX9",
+            "Eza_QI0h3CT9Z221AyRX1"
+          ],
+          "strokeSharpness": "sharp",
+          "boundElements": [],
+          "updated": 1652276589839,
+          "link": null,
+          "locked": false,
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -12.730345799999998,
+              25.466
+            ],
+            [
+              -0.5178580999999962,
+              26.897
+            ],
+            [
+              6.576797599999999,
+              13.180999999999997
+            ],
+            [
+              0.8992804999999997,
+              0.5640000000000001
+            ]
+          ]
+        },
+        {
+          "type": "line",
+          "version": 206,
+          "versionNonce": 1555188782,
+          "isDeleted": false,
+          "id": "RBKhWOmr-iPXmyp6ybTPM",
+          "fillStyle": "cross-hatch",
+          "strokeWidth": 2,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": 1070.2692021539056,
+          "y": 359.5464172363281,
+          "strokeColor": "#000000",
+          "backgroundColor": "transparent",
+          "width": 34.863799400000005,
+          "height": 44,
+          "seed": 909505842,
+          "groupIds": [
+            "j4OThH82PO3sPMDOA1iX9",
+            "Eza_QI0h3CT9Z221AyRX1"
+          ],
+          "strokeSharpness": "sharp",
+          "boundElements": [],
+          "updated": 1652276589839,
+          "link": null,
+          "locked": false,
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              -14.960123300000012,
+              -32.42
+            ],
+            [
+              -29.1743317,
+              -33
+            ],
+            [
+              -30.178179700000005,
+              -23.001
+            ],
+            [
+              -22.897294200000005,
+              -22
+            ],
+            [
+              -7.866463500000002,
+              10.421999999999997
+            ],
+            [
+              3.689738799999993,
+              11
+            ],
+            [
+              4.685619699999997,
+              1.0000000000000002
+            ],
+            [
+              3.6897387999999935,
+              0
+            ]
+          ]
+        }
+      ],
+      "id": "MeuK_WoURaO21D5ET14E0",
+      "created": 1652276589839,
+      "name": "lambda"
+    }
+  ]
+}
