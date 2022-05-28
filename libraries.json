@@ -1151,5 +1151,22 @@
     "created": "2022-05-10",
     "updated": "2022-05-10",
     "version": 2
+  },
+  {
+    "name": "R Icons",
+    "description": "test",
+    "authors": [
+      {
+        "name": "Jumping Rivers",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "jumping-rivers/r-icons.excalidrawlib",
+    "preview": "jumping-rivers/r-icons.jpg",
+    "created": "2022-05-28",
+    "updated": "2022-05-28",
+    "version": 2
   }
 ]
